@@ -1,0 +1,23 @@
+body{
+  background-color: #FFEADD;
+}
+h2{
+  color: #17594A;
+}
+h3,h4{
+  color: #B31312;
+  font-size: 20px;
+}
+a{
+  color:blue;
+}
+hr{
+  border: dotted black 6px;
+  border-bottom: none;
+  width: 100%;
+  padding:none;
+}
+.img1{
+  width: 120px;
+  height:120px;
+}
